@@ -1,4 +1,4 @@
-# 📷 Visual Communication Platform for Manufacturing
+# 📷 ProductCenter - Visual Communication Platform for Manufacturing
 
 A modern, scalable platform for visual communication in manufacturing environments using OCR and image processing technologies.
 
